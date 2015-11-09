@@ -176,6 +176,7 @@ WMI_MAP = {
     '1XP': 'Peterbilt USA',
     '1YV': 'Mazda USA (AutoAlliance International)',
     '2C3': 'Chrysler Canada',
+    '2A4': 'Chrysler',
     '2CN': 'CAMI',
     '2D3': 'Dodge Canada',
     '2FA': 'Ford Motor Company Canada',
@@ -262,5 +263,4 @@ WMI_MAP = {
     '93R': 'Toyota Brazil',
     '9BW': 'Volkswagen Brazil',
     '9FB': 'Renault Colombia',
-    '2A4': 'Chrysler',
     }
