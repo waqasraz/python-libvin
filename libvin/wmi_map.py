@@ -262,4 +262,5 @@ WMI_MAP = {
     '93R': 'Toyota Brazil',
     '9BW': 'Volkswagen Brazil',
     '9FB': 'Renault Colombia',
+    '2A4': 'Chrysler',
     }
